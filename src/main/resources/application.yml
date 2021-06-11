@@ -1,0 +1,11 @@
+debug: true
+spring:
+  datasource:
+    generate-unique-name: false
+    name: springplayground
+  jpa:
+    hibernate:
+      ddl-auto: none
+  h2:
+    console:
+      enabled: true

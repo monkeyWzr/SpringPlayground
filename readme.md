@@ -12,3 +12,4 @@ Learning memos and demos for Spring (Boot).
 ## Current contents
 
 * [Enum Persisting](https://github.com/monkeyWzr/SpringPlayground/tree/main/src/main/java/playground/enum_persisting)
+* [HATEOAS and Spring-data-rest](https://github.com/monkeyWzr/SpringPlayground/tree/main/src/main/java/playground/hateoas)

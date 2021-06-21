@@ -12,6 +12,7 @@ public class GratuityController {
 
     @MessageMapping("gratuity")
     public Flux<GratuityOut> calculate(Flux<GratuityIn> gratuityInFlux) {
+        TestBean b = new TestBean("");
         return gratuityInFlux
                 .doOnNext(in -> {
                     System.out.println("Calculating gratuity:  " + in);

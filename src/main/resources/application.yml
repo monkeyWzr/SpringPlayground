@@ -12,3 +12,6 @@ spring:
   data:
     rest:
       base-path: /data-rest-api
+  rsocket:
+    server:
+      port: 7000

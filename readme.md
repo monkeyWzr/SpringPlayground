@@ -13,3 +13,5 @@ Learning memos and demos for Spring (Boot).
 
 * [Enum Persisting](https://github.com/monkeyWzr/SpringPlayground/tree/main/src/main/java/playground/enum_persisting)
 * [HATEOAS and Spring-data-rest](https://github.com/monkeyWzr/SpringPlayground/tree/main/src/main/java/playground/hateoas)
+
+* [RSocket](https://github.com/monkeyWzr/SpringPlayground/tree/main/src/main/java/playground/rsocket)
